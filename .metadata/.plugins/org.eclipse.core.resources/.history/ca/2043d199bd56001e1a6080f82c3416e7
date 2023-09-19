@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="puple">
+	<!-- ex05_body.html -->
+	<!-- 
+		
+		<body> 태그
+		- 화면에 출력되는 모든 내용을 가지는 컨테이너
+		- 쌍태그, 혼합형
+	
+		<body> 속성
+		1. bgcolor
+			- background color
+			- 문서 배경색
+		2. background
+			- background image
+			- 문서 배경
+	 -->
+</body>
+</html>

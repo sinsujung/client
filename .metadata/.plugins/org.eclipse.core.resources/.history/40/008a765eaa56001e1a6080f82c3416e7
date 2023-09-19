@@ -1,0 +1,21 @@
+<!-- 
+
+	DOCTYPE
+	- 문서 유형
+	- DTD라는 언어로 선언
+	- 선언문
+	- 이 문서를 읽는 브라우저에게 해당 문서가 어떤 문서다.. 라고 알려주는 역할
+	- <!DOCTYPE html> : 해당 문서가 HTML5로 작성된 문서
+
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>첫번째 예제</h1>
+</body>
+</html>

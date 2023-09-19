@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<!-- 
+	<head>
+	- 브라우저가 보는 정보
+	
+	<head> 자식 태그
+	1. <meta>
+		- 페이지에 대한 여러가지 정보를 기술
+	2. <title>
+ -->
+<head>
+	<meta charset="UTF-8">
+	
+	<meta name="author" content="홍길동"><!-- 작성한 개발자 -->
+	<meta name="generator" content="Eclipse 2022.03"><!-- 개발 도구 -->
+	
+	<meta name="keywords" content="HTML,head태그,수업예제"><!-- 키워드 -->
+	<meta name="description" content="HTML 수업예제입니다."><!-- 설명 -->
+	
+	<meta http-equiv="refresh" content="10;url=http://naver.com"> <!-- 10초 뒤 네이버로 이동 -->
+	
+	<title>Insert title here</title>
+	
+<title>Insert title here</title>
+
+<body>
+	<!-- ex04_head.html -->
+	<!-- 
+		
+		검색 사이트 종류
+		1. 디렉토리 서비스
+			- http://yahoo.com
+			
+		2. 키워드 검색 서비스
+			- http://altavista.com, 심마니, 엠파스
+			- http://google.com
+			- 검색봇(Bot) > 프로그램 > 웹서핑 > 정보 수집 +  URL > DB 저장
+			- 블로그 > 하루 100명 접속 > 진짜 사람 10명 미만;;
+			
+	 -->
+</body>
+</html>

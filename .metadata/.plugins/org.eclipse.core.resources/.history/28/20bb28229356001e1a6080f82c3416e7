@@ -1,0 +1,24 @@
+
+
+Web + Client(브라우저) >
+- Client-side
+- Front-end
+- HTML, CSS, JavaScript ..
+
+Web + Server(아파치 톰캣)
+- Server-side
+- Back-end
+- Servlet, Jsp, Spring ..
+
+
+웹페이지(웹문서)를 제작하는 언어
+1. HTML
+	- 웹 문서를 작성한다.
+	- 페이지의 골격을 작성
+	- 페이지의 출력 내용을 작성
+	
+2. CSS
+	- 디자인 언어
+	- HTML 페이지 + 서식 작성 역할
+	
+3. JavaScript
