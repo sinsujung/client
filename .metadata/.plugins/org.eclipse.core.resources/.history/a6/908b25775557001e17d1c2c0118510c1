@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- ex09_style.html -->
+<!-- 
+
+	HTML > 골격 구성 + 데이터 표현 + 서식 기능
+
+ -->
+ 
+ <font>안녕하세요</font>
+</body>
+</html>

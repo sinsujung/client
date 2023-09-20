@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- ex12_url.html -->
+<!-- 
+	URL(=URI)
+	- Uniform Resource Identifier
+	- https://localhost:8090/client/html/ex12_url.html
+	- 웹상의 자원을 구분하기 위한 고유 주소값 
+	
+	- https://www.naver.com/
+	- https://www.google.com/
+
+ -->
+</body>
+</html>

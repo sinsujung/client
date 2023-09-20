@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- ex09_style.html -->
+<!-- 
+
+	HTML > 골격 구성 + 데이터 표현 + 서식 기능(절대 사용 안함)
+	CSS > 디자인(서식 구현)
+
+ -->
+ 
+ <font size="7" color="blue">안녕하세요</font>
+ <br>
+ 안녕하세요
+ 
+ <h1>스타일 태그</h1>
+ 
+ <h2>물리적인 모양을 지정하는 태그</h2>
+ 
+ <b>볼드체입니다.</b><br>
+ <i>이태릭체입니다.</i><br>
+ <small>작은 글자</small><br>
+ 
+ H<sub>2</sub>0<br><!-- 밑첨자 -->
+ MC<sub>2</sub><br><!-- 윗첨자 -->
+ 
+ <u> 밑줄을 긋습니다.</u><br>
+ 
+ <strike>취소선을 긋습니다.</strike><br>
+ <big> 큰 클자</big><br>
+ <tt>타자기 글자</tt>
+ 
+ <h2>의미를 중시하는 태그(***)</h2>
+ 
+ <strong>데이터</strong><br>
+ <em>중요한 데이터</em>
+ 
+</body>
+</html>

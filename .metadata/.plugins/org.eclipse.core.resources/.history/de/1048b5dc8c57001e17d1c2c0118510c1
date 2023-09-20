@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- ex14_tag.html -->
+	<!-- 
+	
+		인라인 태그 vs 블럭 태그
+		- 모든 태그는 위의 두 분류 중 하나에 속한다.
+		- 랜더링(Rendering, 태그를 화면에 출력하는 작업) 결과가 서로 다르다.
+		
+		인라인 태그, Inline Tag
+		- 자신의 내용물과 주변 태그의 내용물을 같은 라인에 출력한다.
+		
+		블럭 태그, Block Tag
+		- 자신의 내용물과 주변 태그의 내용물을 다른 라인에 출력한다.
+	 -->
+	 <!-- a 태그는 인라인 태그이다. -->
+	 <a href="">링크1</a>
+	 <a href="">링크2</a>
+	 <a href="">링크3</a>
+ 	<h1>제목입니다.</h1>
+ 	
+</body>
+</html>
