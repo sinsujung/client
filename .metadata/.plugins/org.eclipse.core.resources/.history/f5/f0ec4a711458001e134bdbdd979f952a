@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- ex15_table.html -->
+	<!-- 
+	
+		표, Table
+		1. <table>
+			- 큰 상자
+			- 전체 컨테이너
+			
+		2. <tr>, table row
+			- 중간 상자
+			- 행 역할
+			
+		3. <td>, table data
+			- 작은 상자
+			- 셀 역할
+			- 데이터를 담는 역할
+	 -->
+ 	<h1>2행 2열 테이블</h1>
+ 	
+ 	<table border="1">
+ 		<tr>
+ 			<td>1</td>
+ 			<td>2</td>
+ 		</tr>
+
+ 		<tr>
+			<td>3</td>
+ 			<td>4</td> 		
+ 		</tr>
+ 	</table>
+ 	
+
+</body>
+</html>

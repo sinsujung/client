@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Table</h1>
+	<table>
+		<tr>
+			<td colspan="4">1</td>
+		</tr>
+		
+		<tr>
+			<td >6</td>
+			<td>7</td>
+			<td>9</td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Table</h1>
+	<table>
+	<table border="1" width="200" height="200">
+		<tr>
+			<td colspan="5">1</td>
+		</tr>
+		
+		<tr>
+			<td  rowspan="3">6</td>
+			<td colspan="2">7</td>
+			<td colspan="2">9</td>
+		</tr>
+		
+		<tr>
+			<td>12</td>
+			<td>13</td>
+			<td rowspan="">14</td>
+			<td>15</td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+</body>
+</html>

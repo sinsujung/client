@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- ex19.html -->
+	
+	<h1>HTML 5</h1>
+	
+	<fotm metod="POST" action="ex18_server.jsp">
+	
+		<input type="submit" value="전송하기">
+		<hr>
+	
+</body>
+</html>

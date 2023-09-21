@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- ex16+table.html -->
+	<!-- 
+	주소록
+	1. 기본작업(table, tr, td)
+	2. 데이터 작성
+	3. 크기 > 전체 너비 > 열 너비
+		** 높이(X) > 데이터 추가/삭제 > 높이 변경해야 하기 때문에 ..
+	-->
+	
+	<h1> 주소록</h1>
+	
+	<table border="1" width="600">
+		
+		<!-- 테이블 헤더 -->
+		<tr bgcolor="#DDDDDD">
+		<tr>
+			<td align="center" width="60"><b>번호</b></td>
+			<td align="center" width="80"><b>이름</b></td>
+			<td align="center" width="60"><b>나이</b></td>
+			<td align="center" width="70"><b>성별</b></td>
+			<td align="center" width="330"><b>주소</b></td>
+		</tr>
+		
+		<!-- 테이블 본문(데이터) -->
+		
+		<tr>
+			<td>1</td>
+			<td>신수정</td>
+			<td>25</td>
+			<td>여</td>
+			<td>서울시 강동구 천호동 OO 아파트 OO 아파트 OO 아파트 OO 아파트 OO아파트 OO</td>
+		</tr>
+		
+
+		<tr>
+			<td>2</td>
+			<td>호호호</td>
+			<td>24</td>
+			<td>남자</td>
+			<td>서울시 강남구 대치동</td>
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td>아무개</td>
+			<td>26</td>
+			<td>남자</td>
+			<td>서울시 강남구 역삼동</td>
+		</tr>
+		
+		<tr>
+			<td>1</td>
+			<td>신수정</td>
+			<td>25</td>
+			<td>여</td>
+			<td>서울시 강동구 천호동</td>
+		</tr>
+		
+
+		<tr>
+			<td>2</td>
+			<td>호호호</td>
+			<td>24</td>
+			<td>남자</td>
+			<td>서울시 강남구 대치동</td>
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td>아무개</td>
+			<td>26</td>
+			<td>남자</td>
+			<td>서울시 강남구 역삼동</td>
+		</tr>
+		
+		<tr>
+			<td>1</td>
+			<td>신수정</td>
+			<td>25</td>
+			<td>여</td>
+			<td>서울시 강동구 천호동</td>
+		</tr>
+		
+
+		<tr>
+			<td>2</td>
+			<td>호호호</td>
+			<td>24</td>
+			<td>남자</td>
+			<td>서울시 강남구 대치동</td>
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td>아무개</td>
+			<td>26</td>
+			<td>남자</td>
+			<td>서울시 강남구 역삼동</td>
+		</tr>
+		
+		<tr>
+			<td>1</td>
+			<td>신수정</td>
+			<td>25</td>
+			<td>여</td>
+			<td>서울시 강동구 천호동</td>
+		</tr>
+		
+
+		<tr>
+			<td>2</td>
+			<td>호호호</td>
+			<td>24</td>
+			<td>남자</td>
+			<td>서울시 강남구 대치동</td>
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td>아무개</td>
+			<td>26</td>
+			<td>남자</td>
+			<td>서울시 강남구 역삼동</td>
+		</tr>
+	</table>
+
+</body>
+</html>
