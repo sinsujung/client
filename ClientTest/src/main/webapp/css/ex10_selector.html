@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+        /* 특정 태그를 찾는 선택자가 N개 이상 선언 할 수 있다. */
+        /* div{color: red;}
+        div{ font-style: italic;} */
+
+        div{
+            color: red;
+            font-style: italic;
+        }
+        /* 동일한 태그를 선택한 식별자들이 > 동일한 속성을 지정 > 충돌 발생 > 작성된 순서에 따라 마지막에 작성한 속성이 적용(덮어쓰기) 
+        div{color:red;}
+        div{color:blue;}
+        */
+        
+        /* #box1{color:orange;} */
+        /* .box{color: blue;} */
+        /* div{color:red;} */
+
+        #box1{ }
+        .box{ }
+
+        body > div{color: blue;}
+
+        div {color: red;}
+
+        /* 태그, 아이디, 클래스 순으로 적기 */
+        div#box1.box{ }
+
+        div + div{ }
+
+        .one{ }
+
+        .box.one{ }
+        
+        .t1{color:blue;}
+
+        div > div > div > div > div > div > div > div > div > div > div{color: red;}
+    </style>
+</head>
+<body>
+    <!-- ex10_selector.html -->
+    <!-- 
+
+        1. 선택자 충돌
+        2. 속성 충돌
+        3. 선택자 우선순위
+        - 속성 충돌이 발생하면 선택자간의 우선 순서에 따라 속성이 적용
+        - 점수 계산 > 높은 점수의 선택자가 적용
+
+        3-1. 선택자 점수 계산
+            a. 태그 선택자 > 1 점 > "사람"
+            b. 클래스 선택자 > 10점 > "남자" > 서울 홍길동
+            c. 아이디 선택자 > 100점 > "홍길동" > 서울 역삼동 한독 홍길동
+
+        -->
+
+     <div id="box1" class="box one">상자</div>
+
+</div>
+    </div>
+        <div>
+            <div>
+                <div>
+                    <div>
+                        </div>
+                            </div>
+                                <div>
+                                    <div>
+                    <div class="t1">상자</div>
+                                    <div>
+                                <div>  
+                            </div>
+                        </div>
+                    <div>
+                </div>
+            </div>
+        <div>
+    <div>
+<div>
+    </body>
+</html>
